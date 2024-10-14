@@ -35,12 +35,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaquee7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas" height="150" alt="languages graph"  />
 </div>
 
-###
 <div align="left">
   <a href="https://www.linkedin.com/in/isaque-santos-9a23a9263/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/u/0/?hl=pt_BR#inbox?compose=CllgCHrfTPNGzXLbwPfGhRPzSfjpThKFwTmvtrmCGxHTfzcmzxhJWZLDDMPXtlHzfDqhjlBxZGB" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
