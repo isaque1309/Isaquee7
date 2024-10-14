@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">- Desenvolvedor python<br>- Experiência em desenvolvimento web<br>- Conhecimento básico em SQL</p>
+<p align="left">- 
+Python Developer<br>- Experience in web development
+<br>- Basic knowledge of SQL
+
+
+
+
+
+</p>
 
 ###
 
