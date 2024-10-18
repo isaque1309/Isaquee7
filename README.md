@@ -4,7 +4,8 @@
 
 <p align="left">- 
 Python Developer<br>- Experience in web development
-<br>- Basic knowledge of SQL
+<br>- Basic knowledge of SQL <br>
+Web developer
 
 
 
